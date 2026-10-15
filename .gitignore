@@ -1,0 +1,9 @@
+.venv/
+.firecrawl/
+__pycache__/
+*.py[cod]
+.DS_Store
+data/raw/fever/wiki-pages.zip
+data/raw/fever/wiki-pages/
+data/raw/pubhealth/repo/data/*.zip
+artifacts/cache/

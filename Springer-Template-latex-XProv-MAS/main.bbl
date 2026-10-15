@@ -1,0 +1,227 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{DOI~\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{DOI~\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem{Anonat201801002}
+Albrecht, S.V., Stone, P.: Autonomous agents modelling other agents: A
+  comprehensive survey and open problems.
+\newblock Artificial Intelligence \textbf{258}, 66--95 (2018).
+\newblock \doi{10.1016/j.artint.2018.01.002}
+
+\bibitem{Anona13jair2985}
+Androutsopoulos, I., Malakasiotis, P.: A survey of paraphrasing and textual
+  entailment methods.
+\newblock Journal of Artificial Intelligence Research \textbf{38}, 135--187
+  (2010).
+\newblock \doi{10.1613/jair.2985}
+
+\bibitem{Anones201912012}
+Arrieta, A.B., Díaz-Rodríguez, N., Ser, J.D., Bennetot, A., Tabik, S.,
+  Barbado, A., Garcia, S., Gil-Lopez, S., Molina, D., Benjamins, R., Chatila,
+  R., Herrera, F.: Explainable artificial intelligence (xai): Concepts,
+  taxonomies, opportunities and challenges toward responsible ai.
+\newblock Information Fusion \textbf{58}, 82--115 (2020).
+\newblock \doi{10.1016/j.inffus.2019.12.012}
+
+\bibitem{Anonf602400881z}
+Augenstein, I., Baldwin, T., Cha, M., Chakraborty, T., Ciampaglia, G.L.,
+  Corney, D., DiResta, R., Ferrara, E., Hale, S., Halevy, A., Hovy, E., Ji, H.,
+  Menczer, F., Miguez, R., Nakov, P., Scheufele, D., Sharma, S., Zagni, G.:
+  Factuality challenges in the era of large language models and opportunities
+  for fact-checking.
+\newblock Nature Machine Intelligence \textbf{6}(8), 852--863 (2024).
+\newblock \doi{10.1038/s42256-024-00881-z}
+
+\bibitem{Anona6023067920}
+Boiko, D.A., MacKnight, R., Kline, B., Gomes, G.: Autonomous chemical research
+  with large language models.
+\newblock Nature \textbf{624}(7992), 570--578 (2023).
+\newblock \doi{10.1038/s41586-023-06792-0}
+
+\bibitem{Anont2017704893}
+Deelman, E., Peterka, T., Altintas, I., Carothers, C.D., van Dam, K.K.,
+  Moreland, K., Parashar, M., Ramakrishnan, L., Taufer, M., Vetter, J.: The
+  future of scientific workflows.
+\newblock The International Journal of High Performance Computing Applications
+  \textbf{32}(1), 159--175 (2018).
+\newblock \doi{10.1177/1094342017704893}
+
+\bibitem{Anone1453561048}
+Dwivedi, R., Dave, D., Naik, H., Singhal, S., Omer, R., Patel, P., Qian, B.,
+  Wen, Z., Shah, T., Morgan, G., Ranjan, R.: Explainable ai (xai): Core ideas,
+  techniques, and solutions.
+\newblock ACM Computing Surveys \textbf{55}(9), 1--33 (2023).
+\newblock \doi{10.1145/3561048}
+
+\bibitem{Anond6024074210}
+Farquhar, S., Kossen, J., Kuhn, L., Gal, Y.: Detecting hallucinations in large
+  language models using semantic entropy.
+\newblock Nature \textbf{630}(8017), 625--630 (2024).
+\newblock \doi{10.1038/s41586-024-07421-0}
+
+\bibitem{Anont15ea000136}
+Gil, Y., David, C.H., Demir, I., Essawy, B.T., Fulweiler, R.W., Goodall, J.L.,
+  Karlstrom, L., Lee, H., Mills, H.J., Oh, J., Pierce, S.A., Pope, A., Tzeng,
+  M.W., Villamizar, S.R., Yu, X.: Toward the geoscience paper of the future:
+  Best practices for documenting and sharing research from data to software to
+  provenance.
+\newblock Earth and Space Science \textbf{3}(10), 388--415 (2016).
+\newblock \doi{10.1002/2015ea000136}
+
+\bibitem{Anong2010118r86}
+Goecks, J., Nekrutenko, A., and, J.T.: Galaxy: a comprehensive approach for
+  supporting accessible, reproducible, and transparent computational research
+  in the life sciences.
+\newblock Genome Biology \textbf{11}(8), R86 (2010).
+\newblock \doi{10.1186/gb-2010-11-8-r86}
+
+\bibitem{Anona1453593042}
+Goyal, S., Doddapaneni, S., Khapra, M.M., Ravindran, B.: A survey of
+  adversarial defenses and robustness in nlp.
+\newblock ACM Computing Surveys \textbf{55}(14s), 1--39 (2023).
+\newblock \doi{10.1145/3593042}
+
+\bibitem{Anonm202109996w}
+Gronauer, S., Diepold, K.: Multi-agent deep reinforcement learning: a survey.
+\newblock Artificial Intelligence Review \textbf{55}(2), 895--943 (2022).
+\newblock \doi{10.1007/s10462-021-09996-w}
+
+\bibitem{Anonscolia00237}
+Hill, F., Reichart, R., Korhonen, A.: Simlex-999: Evaluating semantic models
+  with (genuine) similarity estimation.
+\newblock Computational Linguistics \textbf{41}(4), 665--695 (2015).
+\newblock \doi{10.1162/coli_a_00237}
+
+\bibitem{Anonpdinta00119}
+Kale, A., Nguyen, T., Harris, F.C., Li, C., Zhang, J., Ma, X.: Provenance
+  documentation to enable explainable and trustworthy ai: A literature review.
+\newblock Data Intelligence \textbf{5}(1), 139--162 (2023).
+\newblock \doi{10.1162/dint_a_00119}
+
+\bibitem{Anoni5901717470}
+Kanwal, S., Khan, F.Z., Lonie, A., Sinnott, R.O.: Investigating reproducibility
+  and tracking provenance -- a genomic workflow case study.
+\newblock BMC Bioinformatics \textbf{18}(1), 337 (2017).
+\newblock \doi{10.1186/s12859-017-1747-0}
+
+\bibitem{Anonr7901593192}
+Kashyap, A., Han, L., Yus, R., Sleeman, J., Satyapanich, T., Gandhi, S., Finin,
+  T.: Robust semantic text similarity using lsa, machine learning, and
+  linguistic resources.
+\newblock Language Resources and Evaluation \textbf{50}(1), 125--161 (2016).
+\newblock \doi{10.1007/s10579-015-9319-2}
+
+\bibitem{kotonya2020pubhealth}
+Kotonya, N., Toni, F.: Explainable automated fact-checking for public health
+  claims.
+\newblock In: Proceedings of the 2020 Conference on Empirical Methods in
+  Natural Language Processing, pp. 7740--7754 (2020).
+\newblock \doi{10.18653/v1/2020.emnlp-main.623}
+
+\bibitem{Anonrone0309210}
+Leo, S., Crusoe, M.R., Rodríguez-Navas, L., Sirvent, R., Kanitz, A., Geest,
+  P.D., Wittner, R., Pireddu, L., Garijo, D., Fernández, J.M., Colonnelli, I.,
+  Gallo, M., Ohta, T., Suetake, H., Capella-Gutierrez, S., de~Wit, R.,
+  Kinoshita, B.P., Soiland-Reyes, S.: Recording provenance of workflow runs
+  with ro-crate.
+\newblock PLOS ONE \textbf{19}(9), e0309210 (2024).
+\newblock \doi{10.1371/journal.pone.0309210}
+
+\bibitem{Anona6024000092}
+Li, X., Wang, S., Zeng, S., Wu, Y., Yang, Y.: A survey on llm-based multi-agent
+  systems: workflow, infrastructure, and challenges.
+\newblock Vicinagearth \textbf{1}(1), 9 (2024).
+\newblock \doi{10.1007/s44336-024-00009-2}
+
+\bibitem{Anont4666174668}
+Malone, T.W., Crowston, K.: The interdisciplinary study of coordination.
+\newblock ACM Computing Surveys \textbf{26}(1), 87--119 (1994).
+\newblock \doi{10.1145/174666.174668}
+
+\bibitem{Anonet201807007}
+Miller, T.: Explanation in artificial intelligence: Insights from the social
+  sciences.
+\newblock Artificial Intelligence \textbf{267}, 1--38 (2019).
+\newblock \doi{10.1016/j.artint.2018.07.007}
+
+\bibitem{Anontticsbth361}
+Oinn, T., Addis, M., Ferris, J., Marvin, D., Senger, M., Greenwood, M., Carver,
+  T., Glover, K., Pocock, M.R., Wipat, A., Li, P.: Taverna: a tool for the
+  composition and enactment of bioinformatics workflows.
+\newblock Bioinformatics \textbf{20}(17), 3045--3054 (2004).
+\newblock \doi{10.1093/bioinformatics/bth361}
+
+\bibitem{reimers2020sentence}
+Reimers, N., Gurevych, I.: Making monolingual sentence embeddings multilingual
+  using knowledge distillation.
+\newblock In: Proceedings of the 2020 Conference on Empirical Methods in
+  Natural Language Processing, pp. 4512--4525 (2020).
+\newblock \doi{10.18653/v1/2020.emnlp-main.365}
+
+\bibitem{Anond0182887201}
+Singh, J., Cobbe, J., Norval, C.: Decision provenance: Harnessing data flow for
+  accountable systems.
+\newblock IEEE Access \textbf{7}, 6562--6574 (2019).
+\newblock \doi{10.1109/access.2018.2887201}
+
+\bibitem{Anonw002cpe6544}
+Souza, R., Azevedo, L.G., Lourenço, V., Soares, E., Thiago, R., Brandão, R.,
+  Civitarese, D., Brazil, E.V., Moreno, M., Valduriez, P., Mattoso, M.,
+  Cerqueira, R., Netto, M.A.S.: Workflow provenance in the lifecycle of
+  scientific machine learning.
+\newblock Concurrency and Computation: Practice and Experience \textbf{34}(14),
+  e6544 (2022).
+\newblock \doi{10.1002/cpe.6544}
+
+\bibitem{thorne2018fever}
+Thorne, J., Vlachos, A., Christodoulopoulos, C., Mittal, A.: Fever: A
+  large-scale dataset for fact extraction and verification.
+\newblock In: Proceedings of the 2018 Conference of the North American Chapter
+  of the Association for Computational Linguistics: Human Language
+  Technologies, pp. 809--819 (2018).
+\newblock \doi{10.18653/v1/N18-1074}
+
+\bibitem{w3c2013prov}
+{W3C}: Prov-overview: An overview of the prov family of documents.
+\newblock W3C Recommendation (2013).
+\newblock \urlprefix\url{https://www.w3.org/TR/prov-overview/}
+
+\bibitem{won2020scifact}
+Wadden, D., Lin, S., Lo, K., Wang, L., van Zuylen, M., Cohan, A., Hajishirzi,
+  H.: Fact or fiction: Verifying scientific claims.
+\newblock In: Proceedings of the 2020 Conference on Empirical Methods in
+  Natural Language Processing, pp. 7534--7550 (2020).
+\newblock \doi{10.18653/v1/2020.emnlp-main.609}
+
+\bibitem{Anona580079021x}
+Walter, F.E., Battiston, S., Schweitzer, F.: A model of a trust-based
+  recommendation system on a social network.
+\newblock Autonomous Agents and Multi-Agent Systems \textbf{16}(1), 57--74
+  (2008).
+\newblock \doi{10.1007/s10458-007-9021-x}
+
+\bibitem{Anonm0219619735}
+Yang, X., He, X., Zhang, H., Ma, Y., Bian, J., Wu, Y.: Measurement of semantic
+  textual similarity in clinical texts: Comparison of transformer-based models.
+\newblock JMIR Medical Informatics \textbf{8}(11), e19735 (2020).
+\newblock \doi{10.2196/19735}
+
+\bibitem{zhang2019paws}
+Zhang, Y., Balog, K., Callan, J., et~al.: Paws: Paraphrase adversaries from
+  word scrambling.
+\newblock In: Proceedings of the 2019 Conference of the North American Chapter
+  of the Association for Computational Linguistics: Human Language
+  Technologies, pp. 1298--1308 (2019).
+\newblock \doi{10.18653/v1/N19-1131}
+
+\bibitem{Anona8023096336}
+Zhu, C., Dastani, M., Wang, S.: A survey of multi-agent deep reinforcement
+  learning with communication.
+\newblock Autonomous Agents and Multi-Agent Systems \textbf{38}(1), 4 (2024).
+\newblock \doi{10.1007/s10458-023-09633-6}
+
+\end{thebibliography}
